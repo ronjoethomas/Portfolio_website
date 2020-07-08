@@ -1,0 +1,37 @@
+.left_column{
+	color: rgb(0,255,255);
+	padding-left: 5%;
+	padding-right:5%;
+}
+
+html, body {
+	background: #e4dfcd;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.row{
+	padding: 0px;
+}
+
+.container_bottom{
+	height: 5%;
+}
+
+.bottom_bg{
+	background: #989899;
+	margin: 0px;
+	padding: 0px;
+}
+.carousel-inner .item a img {
+
+margin: auto;
+
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
